@@ -5,6 +5,8 @@ type: "tech"
 topics: ["kubernetes", "karmada", "yugabytedb", "minio", "マルチクラスタ"]
 published: true
 ---
+![](https://assets.st-note.com/production/uploads/images/319539649/rectangle_large_type_2_c53be2e636ed71cd6b20b42d2b884508.png?fit=bounds&quality=85&width=1280)
+
 交換日記アプリ **[whatcha](https://whatareyoudo.ing)** を、3つの別々の場所に置いた
 Kubernetes で動かしています。この記事は、その構成と、そう決めた理由の話です。
 

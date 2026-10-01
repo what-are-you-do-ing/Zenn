@@ -5,6 +5,8 @@ type: "tech"
 topics: ["交換日記", "ai", "chatgpt", "日記を書く", "whatcha"]
 published: true
 ---
+![](https://assets.st-note.com/production/uploads/images/319528410/rectangle_large_type_2_34983b921ffb867eeafee6a82545bca6.png?fit=bounds&quality=85&width=1280)
+
 **交換日記アプリ「Whatcha」を作っています。** 同じ日のページを、ふたりが別々の時間に書けるアプリです。
 
 先日、こんな問い合わせが届いた話を書きました。AI のパートナーと人間、その二人で交換日記を続けたい、という相談です。
