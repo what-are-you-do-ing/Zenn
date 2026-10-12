@@ -3,7 +3,7 @@ title: "共有日記アプリを並べて、弱みを数えた"
 emoji: "🚀"
 type: "tech"
 topics: ["アプリ開発", "交換日記", "競合分析", "日記アプリ", "whatcha"]
-published: true
+published: false
 ---
 どうも、Whatcha でデザインを担当しているシオリです。
 

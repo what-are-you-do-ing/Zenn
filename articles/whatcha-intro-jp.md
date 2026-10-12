@@ -3,7 +3,7 @@ title: "はじめまして、Whatchaです。― 大切な人と、一冊の日�
 emoji: "🚀"
 type: "tech"
 topics: ["whatcha", "日記", "アプリ", "個人開発", "グループ"]
-published: true
+published: false
 ---
 はじめまして。グループ日記プラットフォーム「**Whatcha**（what-are-you-do-ing）」の公式アカウントです。
 

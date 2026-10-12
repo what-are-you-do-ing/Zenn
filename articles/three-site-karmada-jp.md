@@ -3,7 +3,7 @@ title: "3拠点の Kubernetes を Karmada で束ねて、交換日記アプリ�
 emoji: "🚀"
 type: "tech"
 topics: ["kubernetes", "karmada", "yugabytedb", "minio", "マルチクラスタ"]
-published: true
+published: false
 ---
 ![](https://assets.st-note.com/production/uploads/images/319539649/rectangle_large_type_2_c53be2e636ed71cd6b20b42d2b884508.png?fit=bounds&quality=85&width=1280)
 

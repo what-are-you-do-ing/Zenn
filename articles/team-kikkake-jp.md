@@ -3,7 +3,7 @@ title: "誰かが撮ってると、みんな思ってた"
 emoji: "🚀"
 type: "tech"
 topics: ["サークル", "アプリ開発", "座談会", "写真整理", "whatcha"]
-published: true
+published: false
 ---
 > 「誰かが撮ってるだろう」って、サークルのイベントのたびに思って、スマホをしまってたんです。
 

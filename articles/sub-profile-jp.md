@@ -3,7 +3,7 @@ title: "「AIのパートナーと交換日記を書きたい」の続きです�
 emoji: "🚀"
 type: "tech"
 topics: ["交換日記", "ai", "chatgpt", "日記を書く", "whatcha"]
-published: true
+published: false
 ---
 ![](https://assets.st-note.com/production/uploads/images/319528410/rectangle_large_type_2_34983b921ffb867eeafee6a82545bca6.png?fit=bounds&quality=85&width=1280)
 

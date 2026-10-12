@@ -3,7 +3,7 @@ title: "交換日記が続かないのは、飽きたからではないと思う
 emoji: "🚀"
 type: "tech"
 topics: ["交換日記", "夫婦の記録", "日記を書く", "親子の会話", "whatcha"]
-published: true
+published: false
 ---
 **交換日記アプリ「Whatcha」を作っています。** 同じ日のページを、ふたりが別々の時間に書けるアプリです。順番待ちがありません。
 
