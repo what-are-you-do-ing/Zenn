@@ -3,7 +3,7 @@ title: "共有日記の自動マージを 50.9% → 68.8% にした：git merge-
 emoji: "🔀"
 type: "tech"
 topics: ["git", "typescript", "postgresql", "supabase", "個人開発"]
-published: true
+published: false
 ---
 
 **二人で同じ日の日記を書き換えたら、どうマージするか。**

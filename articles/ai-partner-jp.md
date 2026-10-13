@@ -3,7 +3,7 @@ title: "AIのパートナーと交換日記を書きたい、という問い合�
 emoji: "🚀"
 type: "tech"
 topics: ["交換日記", "ai", "chatgpt", "日記を書く", "whatcha"]
-published: true
+published: false
 ---
 **交換日記アプリ「Whatcha」を作っています。** 同じ日のページを、ふたりが別々の時間に書けるアプリです。
 
